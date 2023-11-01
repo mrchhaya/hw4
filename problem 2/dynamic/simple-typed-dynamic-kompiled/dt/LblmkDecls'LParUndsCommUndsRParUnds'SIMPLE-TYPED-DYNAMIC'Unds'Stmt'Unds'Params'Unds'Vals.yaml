@@ -1,0 +1,41 @@
+default: null
+specializations:
+- - Lbl'Stop'List'LBraQuotUndsCommUndsUnds'SIMPLE-TYPED-DYNAMIC-SYNTAX'Unds'Vals'Unds'Val'Unds'Vals'QuotRBraUnds'Vals{}
+  - default: fail
+    specializations:
+    - - Lbl'Stop'List'LBraQuotUndsCommUndsUnds'SIMPLE-TYPED-DYNAMIC-SYNTAX'Unds'Params'Unds'Param'Unds'Params'QuotRBraUnds'Params{}
+      - action:
+        - 5434
+        - []
+      - []
+    sort: STRING.String
+    occurrence: &id001 ['1']
+  - []
+- - Lbl'UndsCommUndsUnds'SIMPLE-TYPED-DYNAMIC-SYNTAX'Unds'Vals'Unds'Val'Unds'Vals{}
+  - default: fail
+    specializations:
+    - - Lbl'UndsCommUndsUnds'SIMPLE-TYPED-DYNAMIC-SYNTAX'Unds'Params'Unds'Param'Unds'Params{}
+      - default: null
+        specializations:
+        - - Lbl'UndsUndsUnds'SIMPLE-TYPED-DYNAMIC-SYNTAX'Unds'Param'Unds'Type'Unds'Id{}
+          - action:
+            - 5435
+            - - - ['1', '1']
+                - STRING.String
+              - - ['0', '0', '1']
+                - STRING.String
+              - - ['0', '2']
+                - STRING.String
+              - - ['1', '2']
+                - STRING.String
+              - - ['1', '0', '1']
+                - STRING.String
+          - [STRING.String, STRING.String]
+        sort: STRING.String
+        occurrence: ['0', '1']
+      - [STRING.String, STRING.String]
+    sort: STRING.String
+    occurrence: *id001
+  - [STRING.String, STRING.String]
+sort: STRING.String
+occurrence: ['2']

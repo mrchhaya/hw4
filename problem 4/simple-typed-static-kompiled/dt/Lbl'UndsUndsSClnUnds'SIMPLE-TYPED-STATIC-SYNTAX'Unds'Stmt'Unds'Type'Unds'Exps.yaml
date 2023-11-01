@@ -1,0 +1,150 @@
+default: fail
+specializations:
+- - Lbl'UndsCommUndsUnds'SIMPLE-TYPED-STATIC-SYNTAX'Unds'Exps'Unds'Exp'Unds'Exps{}
+  - default: null
+    specializations:
+    - - Lbl'Stop'List'LBraQuotUndsCommUndsUnds'SIMPLE-TYPED-STATIC-SYNTAX'Unds'Exps'Unds'Exp'Unds'Exps'QuotRBraUnds'Exps{}
+      - &id005
+        default: fail
+        specializations:
+        - - Lbl'UndsEqlsUndsUnds'SIMPLE-TYPED-STATIC-SYNTAX'Unds'Exp'Unds'Exp'Unds'Exp{}
+          - default: fail
+            specializations:
+            - - inj{SortId{}, SortExp{}}
+              - action:
+                - 5158
+                - - - &id002 ['0', '2']
+                    - STRING.String
+                  - - &id001 ['0', '0', '2']
+                    - STRING.String
+                  - - &id003 ['1', '2']
+                    - STRING.String
+                  - - ['1', '0', '2']
+                    - STRING.String
+                  - - &id004 ['1']
+                    - STRING.String
+                  - - ['0', '0', '0', '2']
+                    - STRING.String
+              - [STRING.String]
+            sort: STRING.String
+            occurrence: *id001
+          - [STRING.String, STRING.String]
+        sort: STRING.String
+        occurrence: *id002
+      - []
+    - - Lbl'UndsCommUndsUnds'SIMPLE-TYPED-STATIC-SYNTAX'Unds'Exps'Unds'Exp'Unds'Exps{}
+      - action:
+        - 5159
+        - - - *id003
+            - STRING.String
+          - - *id002
+            - STRING.String
+          - - ['0', '1', '2']
+            - STRING.String
+          - - ['1', '1', '2']
+            - STRING.String
+          - - *id004
+            - STRING.String
+      - [STRING.String, STRING.String]
+    - - inj{SortTypes{}, SortExps{}}
+      - default: null
+        specializations:
+        - - Lbl'Stop'List'LBraQuotUndsCommUndsUnds'SIMPLE-TYPED-STATIC-SYNTAX'Unds'Types'Unds'Type'Unds'Types'QuotRBraUnds'Types{}
+          - *id005
+          - []
+        - - Lbl'UndsCommUndsUnds'SIMPLE-TYPED-STATIC-SYNTAX'Unds'Types'Unds'Type'Unds'Types{}
+          - next:
+              next:
+                action:
+                - 5159
+                - - - *id003
+                    - STRING.String
+                  - - *id002
+                    - STRING.String
+                  - - &id007 ['-1', '0', '0', '1', '2']
+                    - STRING.String
+                  - - &id006 ['-1', '1', '0', '1', '2']
+                    - STRING.String
+                  - - *id004
+                    - STRING.String
+              pattern:
+                args:
+                - hook: STRING.String
+                  occurrence: ['1', '0', '1', '2']
+                constructor: inj{SortTypes{}, SortExps{}}
+              occurrence: *id006
+              sort: STRING.String
+            pattern:
+              args:
+              - hook: STRING.String
+                occurrence: ['0', '0', '1', '2']
+              constructor: inj{SortType{}, SortExp{}}
+            occurrence: *id007
+            sort: STRING.String
+          - [STRING.String, STRING.String]
+        sort: STRING.String
+        occurrence: ['0', '1', '2']
+      - [STRING.String]
+    sort: STRING.String
+    occurrence: *id003
+  - [STRING.String, STRING.String]
+- - inj{SortTypes{}, SortExps{}}
+  - default: fail
+    specializations:
+    - - Lbl'UndsCommUndsUnds'SIMPLE-TYPED-STATIC-SYNTAX'Unds'Types'Unds'Type'Unds'Types{}
+      - default: fail
+        specializations:
+        - - Lbl'UndsCommUndsUnds'SIMPLE-TYPED-STATIC-SYNTAX'Unds'Types'Unds'Type'Unds'Types{}
+          - next:
+              next:
+                next:
+                  next:
+                    action:
+                    - 5159
+                    - - - &id010 ['-1', '1', '0', '2']
+                        - STRING.String
+                      - - &id011 ['-1', '0', '0', '2']
+                        - STRING.String
+                      - - &id009 ['-1', '0', '1', '0', '2']
+                        - STRING.String
+                      - - &id008 ['-1', '1', '1', '0', '2']
+                        - STRING.String
+                      - - *id004
+                        - STRING.String
+                  pattern:
+                    args:
+                    - hook: STRING.String
+                      occurrence: ['1', '1', '0', '2']
+                    constructor: inj{SortTypes{}, SortExps{}}
+                  occurrence: *id008
+                  sort: STRING.String
+                pattern:
+                  args:
+                  - hook: STRING.String
+                    occurrence: ['0', '1', '0', '2']
+                  constructor: inj{SortType{}, SortExp{}}
+                occurrence: *id009
+                sort: STRING.String
+              pattern:
+                args:
+                - hook: STRING.String
+                  occurrence: ['1', '0', '2']
+                constructor: inj{SortTypes{}, SortExps{}}
+              occurrence: *id010
+              sort: STRING.String
+            pattern:
+              args:
+              - hook: STRING.String
+                occurrence: ['0', '0', '2']
+              constructor: inj{SortType{}, SortExp{}}
+            occurrence: *id011
+            sort: STRING.String
+          - [STRING.String, STRING.String]
+        sort: STRING.String
+        occurrence: ['1', '0', '2']
+      - [STRING.String, STRING.String]
+    sort: STRING.String
+    occurrence: ['0', '2']
+  - [STRING.String]
+sort: STRING.String
+occurrence: ['2']

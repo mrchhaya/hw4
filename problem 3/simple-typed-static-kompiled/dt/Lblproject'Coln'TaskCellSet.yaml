@@ -1,0 +1,25 @@
+default: fail
+specializations:
+- - kseq{}
+  - default: fail
+    specializations:
+    - - dotk{}
+      - default: fail
+        specializations:
+        - - inj{SortTaskCellSet{}, SortKItem{}}
+          - action:
+            - 5381
+            - - - ['0', '0', '1']
+                - SET.Set
+          - [SET.Set]
+        - - inj{SortTaskCell{}, SortKItem{}}
+          - fail
+          - [STRING.String]
+        sort: STRING.String
+        occurrence: ['0', '1']
+      - []
+    sort: STRING.String
+    occurrence: ['1', '1']
+  - [STRING.String, STRING.String]
+sort: STRING.String
+occurrence: ['1']

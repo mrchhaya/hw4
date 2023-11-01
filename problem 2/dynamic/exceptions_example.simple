@@ -1,0 +1,12 @@
+void main() {
+    try { 
+        try { 
+            throw 7; 
+        } catch(bool x) {
+            print(1);
+        } 
+    }
+    catch(int x) {
+        print(2);
+    }
+}

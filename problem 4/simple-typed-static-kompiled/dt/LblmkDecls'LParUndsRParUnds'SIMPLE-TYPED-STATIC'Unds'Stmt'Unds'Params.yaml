@@ -1,0 +1,25 @@
+default: null
+specializations:
+- - Lbl'Stop'List'LBraQuotUndsCommUndsUnds'SIMPLE-TYPED-STATIC-SYNTAX'Unds'Params'Unds'Param'Unds'Params'QuotRBraUnds'Params{}
+  - action:
+    - 5310
+    - []
+  - []
+- - Lbl'UndsCommUndsUnds'SIMPLE-TYPED-STATIC-SYNTAX'Unds'Params'Unds'Param'Unds'Params{}
+  - default: null
+    specializations:
+    - - Lbl'UndsUndsUnds'SIMPLE-TYPED-STATIC-SYNTAX'Unds'Param'Unds'Type'Unds'Id{}
+      - action:
+        - 5311
+        - - - ['1', '1']
+            - STRING.String
+          - - ['0', '0', '1']
+            - STRING.String
+          - - ['1', '0', '1']
+            - STRING.String
+      - [STRING.String, STRING.String]
+    sort: STRING.String
+    occurrence: ['0', '1']
+  - [STRING.String, STRING.String]
+sort: STRING.String
+occurrence: ['1']

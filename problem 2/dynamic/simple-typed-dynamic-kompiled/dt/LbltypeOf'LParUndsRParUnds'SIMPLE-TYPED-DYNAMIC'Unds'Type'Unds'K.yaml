@@ -1,0 +1,72 @@
+default: fail
+specializations:
+- - kseq{}
+  - default: fail
+    specializations:
+    - - dotk{}
+      - default: fail
+        specializations:
+        - - inj{SortBool{}, SortKItem{}}
+          - action:
+            - 5519
+            - - - ['0', '0', '1']
+                - BOOL.Bool
+          - [BOOL.Bool]
+        - - inj{SortInt{}, SortKItem{}}
+          - action:
+            - 5520
+            - - - ['0', '0', '1']
+                - INT.Int
+          - [INT.Int]
+        - - inj{SortString{}, SortKItem{}}
+          - action:
+            - 5521
+            - - - ['0', '0', '1']
+                - STRING.String
+          - [STRING.String]
+        - - inj{SortVal{}, SortKItem{}}
+          - default: fail
+            specializations:
+            - - Lblarray'LParUndsCommUndsCommUndsRParUnds'SIMPLE-TYPED-DYNAMIC'Unds'Val'Unds'Type'Unds'Int'Unds'Int{}
+              - action:
+                - 5522
+                - - - ['1', '0', '0', '1']
+                    - INT.Int
+                  - - ['2', '0', '0', '1']
+                    - INT.Int
+                  - - ['0', '0', '0', '1']
+                    - STRING.String
+              - [STRING.String, INT.Int, INT.Int]
+            - - Lbllambda'LParUndsCommUndsCommUndsRParUnds'SIMPLE-TYPED-DYNAMIC'Unds'Val'Unds'Type'Unds'Params'Unds'Stmt{}
+              - action:
+                - 5523
+                - - - ['2', '0', '0', '1']
+                    - STRING.String
+                  - - ['1', '0', '0', '1']
+                    - STRING.String
+                  - - ['0', '0', '0', '1']
+                    - STRING.String
+              - [STRING.String, STRING.String, STRING.String]
+            - - Lblnothing'LParUndsRParUnds'SIMPLE-TYPED-DYNAMIC'Unds'Val'Unds'Type{}
+              - action:
+                - 5524
+                - - - ['0', '0', '0', '1']
+                    - STRING.String
+              - [STRING.String]
+            sort: STRING.String
+            occurrence: ['0', '0', '1']
+          - [STRING.String]
+        - - Lblundefined'LParUndsRParUnds'SIMPLE-TYPED-DYNAMIC'Unds'KItem'Unds'Type{}
+          - action:
+            - 5525
+            - - - ['0', '0', '1']
+                - STRING.String
+          - [STRING.String]
+        sort: STRING.String
+        occurrence: ['0', '1']
+      - []
+    sort: STRING.String
+    occurrence: ['1', '1']
+  - [STRING.String, STRING.String]
+sort: STRING.String
+occurrence: ['1']

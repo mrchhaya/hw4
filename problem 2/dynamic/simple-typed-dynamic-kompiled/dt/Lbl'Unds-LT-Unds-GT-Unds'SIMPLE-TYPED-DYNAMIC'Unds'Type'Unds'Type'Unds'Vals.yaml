@@ -1,0 +1,20 @@
+default: null
+specializations:
+- - Lbl'Stop'List'LBraQuotUndsCommUndsUnds'SIMPLE-TYPED-DYNAMIC-SYNTAX'Unds'Vals'Unds'Val'Unds'Vals'QuotRBraUnds'Vals{}
+  - action:
+    - 5221
+    - - - &id001 ['1']
+        - STRING.String
+  - []
+- - Lbl'UndsCommUndsUnds'SIMPLE-TYPED-DYNAMIC-SYNTAX'Unds'Vals'Unds'Val'Unds'Vals{}
+  - action:
+    - 5222
+    - - - ['0', '2']
+        - STRING.String
+      - - *id001
+        - STRING.String
+      - - ['1', '2']
+        - STRING.String
+  - [STRING.String, STRING.String]
+sort: STRING.String
+occurrence: ['2']

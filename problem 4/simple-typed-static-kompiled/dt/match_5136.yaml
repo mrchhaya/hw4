@@ -1,0 +1,92 @@
+default: null
+specializations:
+- - Lbl'-LT-'generatedTop'-GT-'{}
+  - default: null
+    specializations:
+    - - Lbl'-LT-'T'-GT-'{}
+      - default: null
+        specializations:
+        - - Lbl'-LT-'tasks'-GT-'{}
+          - next:
+              args:
+              - - &id002 [size, '0', '0', '0', '1']
+                - STRING.String
+              - - &id001 ['0', '0', '0', '1']
+                - SET.Set
+              next:
+                args:
+                - - *id001
+                  - SET.Set
+                - - *id002
+                  - STRING.String
+                next:
+                  default: null
+                  specializations:
+                  - - '1'
+                    - action:
+                      - 5136
+                      - - - ['1', '1']
+                          - STRING.String
+                        - - ['1', '0', '1']
+                          - STRING.String
+                        - - ['SymbolP(Lbl''-LT-''task''-GT-''{},List(SymbolP(Lbl''-LT-''k''-GT-''{},List(SymbolP(kseq{},List(SymbolP(inj{SortBlockOrStmtType{},
+                              SortKItem{}},List(SymbolP(Lblstmt''Unds''SIMPLE-TYPED-STATIC''Unds''BlockOrStmtType{},List()))),
+                              SymbolP(dotk{},List()))))), SymbolP(Lbl''Stop''TenvCell{},List()),
+                              SymbolP(Lbl''Stop''CurrEnvVarCell{},List()), SymbolP(Lbl''Stop''ReturnTypeCell{},List())))_rem',
+                            '0', '0', '0', '1']
+                          - SET.Set
+                    - [SET.Set, SET.Set]
+                  - - '0'
+                    - fail
+                    - [SET.Set]
+                  bitwidth: 1
+                  sort: BOOL.Bool
+                  occurrence: ['SymbolP(Lbl''-LT-''task''-GT-''{},List(SymbolP(Lbl''-LT-''k''-GT-''{},List(SymbolP(kseq{},List(SymbolP(inj{SortBlockOrStmtType{},
+                      SortKItem{}},List(SymbolP(Lblstmt''Unds''SIMPLE-TYPED-STATIC''Unds''BlockOrStmtType{},List()))),
+                      SymbolP(dotk{},List()))))), SymbolP(Lbl''Stop''TenvCell{},List()),
+                      SymbolP(Lbl''Stop''CurrEnvVarCell{},List()), SymbolP(Lbl''Stop''ReturnTypeCell{},List())))_val',
+                    '0', '0', '0', '1']
+                function: hook_SET_remove
+                sort: SET.Set
+                occurrence: ['SymbolP(Lbl''-LT-''task''-GT-''{},List(SymbolP(Lbl''-LT-''k''-GT-''{},List(SymbolP(kseq{},List(SymbolP(inj{SortBlockOrStmtType{},
+                    SortKItem{}},List(SymbolP(Lblstmt''Unds''SIMPLE-TYPED-STATIC''Unds''BlockOrStmtType{},List()))),
+                    SymbolP(dotk{},List()))))), SymbolP(Lbl''Stop''TenvCell{},List()),
+                    SymbolP(Lbl''Stop''CurrEnvVarCell{},List()), SymbolP(Lbl''Stop''ReturnTypeCell{},List())))_rem',
+                  '0', '0', '0', '1']
+              function: hook_SET_in
+              sort: BOOL.Bool
+              occurrence: ['SymbolP(Lbl''-LT-''task''-GT-''{},List(SymbolP(Lbl''-LT-''k''-GT-''{},List(SymbolP(kseq{},List(SymbolP(inj{SortBlockOrStmtType{},
+                  SortKItem{}},List(SymbolP(Lblstmt''Unds''SIMPLE-TYPED-STATIC''Unds''BlockOrStmtType{},List()))),
+                  SymbolP(dotk{},List()))))), SymbolP(Lbl''Stop''TenvCell{},List()),
+                  SymbolP(Lbl''Stop''CurrEnvVarCell{},List()), SymbolP(Lbl''Stop''ReturnTypeCell{},List())))_val',
+                '0', '0', '0', '1']
+            pattern:
+              args:
+              - args:
+                - args:
+                  - args:
+                    - args: []
+                      constructor: Lblstmt'Unds'SIMPLE-TYPED-STATIC'Unds'BlockOrStmtType{}
+                    constructor: inj{SortBlockOrStmtType{}, SortKItem{}}
+                  - args: []
+                    constructor: dotk{}
+                  constructor: kseq{}
+                constructor: Lbl'-LT-'k'-GT-'{}
+              - args: []
+                constructor: Lbl'Stop'TenvCell{}
+              - args: []
+                constructor: Lbl'Stop'CurrEnvVarCell{}
+              - args: []
+                constructor: Lbl'Stop'ReturnTypeCell{}
+              constructor: Lbl'-LT-'task'-GT-'{}
+            occurrence: *id002
+            sort: STRING.String
+          - [SET.Set]
+        sort: STRING.String
+        occurrence: ['0', '0', '1']
+      - [STRING.String, STRING.String]
+    sort: STRING.String
+    occurrence: ['0', '1']
+  - [STRING.String, STRING.String]
+sort: STRING.String
+occurrence: ['1']

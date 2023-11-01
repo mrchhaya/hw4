@@ -1,0 +1,242 @@
+7e0881270e2377e31e3db93d4eec920df0742d85a3bf0fa3636b1b5c430b9ddd /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:38:18
+a9b5850deb2d485863d35dff641fcf43c3b31b405dd9d67997e0d6c34c4d0c15 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:192:8
+5537f6ce1f2bd4ca4ecbe0a42840df77b9d986602ab9c2716e9a0912cc94ba7a /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:65:19
+79a7a17e441e3a32857ee8a37f0630c7fabcb860fd36271863137e3dc3e1d458 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:179:8
+74ee799992faa856d17c1ee2d105f1f5ad9145dd97b2ffd019c8f7ee1276a8fc /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:143:8
+51c4f836bdfebaff8acd79c339e1d6b3c4b8e23f48d568c145f25c9e322a9e22 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:130:8
+23b9fa88124c547d94aed32124d1ccd1069732b059f4c8b430ab4617979690f6 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1870:8
+fa03afa51a0ff32c2b77c588bd7649bb22a116a9c5584dbc3e57079412104f95 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:43:18
+8e5353c0a58491f8613ad7a35d0833206c342df0c91773e42485e52f4dad0cd0 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1864:8
+798b2d6ac07b1cdd6c84bfea22ae8bed4bfa49f86009b7478e6872e44c3cb068 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:28:18
+922b26e9342d91672ff1ec8f7bff5759223e3f01427ffad1449c0c2af1168cab /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:173:11
+2b32069ac3f589174502fa507ebc88fab7c902854c0a9baa8ab09beb551232e2 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:2304:8
+24790871712e1e294a98eb279e0f9b09c831c7b9d6063b80ff274889b33fd535 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:32:18
+66410855e632c918a8b094c82305012ed22e2ea12831589bbd15a6f009078864 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:21:18
+115e6112f1f795799cb184d1a3db137d52492d985cef4b8e30c5b321a780d102 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:224:8
+9a6d91cd75cd777b0d4db536b3e4b20578e74fe650e644b55294da95fd2dba7f /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1133:8
+1a4a3b0c056ce0f335e41b37c360fc314ed04609941ae84f0583af8869799415 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:31:18
+311b80d2cb12d368f230eba968464e1fc926bd57e304059b282b82af4d9626d9 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1884:8
+cea24099167346c9bbea8605a203142b05388c2fd8f202d03a86b50a82f0209e /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:201:8
+47a409a6983b625065a5a2add278742d725c11ee9d47614f8a631b1b6f00bf47 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:112:8
+da818c43c21c5fb2cced7e02a74b6b4191d323de2967a671b961ad28550f3c7d /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1145:8
+641bb50f8829438b6c2a81ff7c3128f03a0e12e32e052d5efacfdc9db5a6ae2e /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:31:18
+c9a739ed78f43030ec763cc2fb8862028df9e06a2b0861ca0fd4c7df27c96e5f /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:184:8
+ba325631ba787768be8aa9cb198ec5a4615fe5dc411a6957942a8bc1cb5de95a /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:168:8
+80d494047e08365f6cd1f87dfc19fbc758c7b466f8ca998bfe0e29101a4277c0 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:220:11
+95f6ee58c267097a0adde39f07eb233ebf9950f55b9fb86c45eb6dfb89d57940 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:132:8
+950a38d0bc89f59c2342d9dc4425a3056c759c25b5d8cf929c92a5c4b9b06a28 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:126:8
+b376ffb0925555ed27696d73fc8fe43306e2005e4cf6ad819e860958992f9f17 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1865:8
+94275d183090f8ab2ec23c34d70a14f14f03675e3c9603c131028061cf450e69 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:36:18
+e9a710d8d1ca5c799420161879cbbff926de45a5bddd820d646f51d43eb67e62 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:749:8
+61fbef33b3611f1cc2aaf3b5e8ddec4a0f434c557278c38461c65c8722743497 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1123:8
+4712f7eb543f2762fdbeac8ce1b78e4691cc32171f65298989ab135314703655 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:39:18
+cdbaa62de1cfad144f46ddd36bb2d40fa7fbdc3df03f93198945f50765b7a293 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:163:8
+83dcf9bc8c69f131715bc7a92d06c99b9a2b5f4c4fdafb69e6fdb2f1822712d4 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1418:8
+02b25867158047a8390b6e0efcaac59ac199064ffcf117b5df67a964c7893067 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:27:18
+bbfa722f69811d6991f3867ea988eea0d003aaa700b60c12616af2c355367921 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:148:8
+e290042e5b5b2f620c0ca1871e708c3713c62b63b283e317bb7568e13968fe0c /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1877:8
+59075c4beb39ce3cb90c2ba0afb20b1e9aa7e30b807dfb55d608f178f7e47060 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:109:8
+7b98dbc9ae1c14b98b700fa62e6174f275aced041333874534c2d1db13ed781e /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:24:18
+948ee2d5e422f17f2cad68afb0ca7e4e7e8d063b6b963341f9e58f8c545992f0 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:24:18
+faf089999a4d7b2d2ec3fe74af16000ae3027f1240cae1dda1531553a8ff475e /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:66:8
+f390a9b650f3de0e3a93773a46e65aae3decdeb2a10906058f204f031681c9b7 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1843:8
+5b9db8dba12010819161cc42dadccd0adf0100a47c21f884ae66c0a3d5483a1f /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1121:8
+0aad7dd5fcb12d0c90e0a67f4f3f7abe360164b875e5a2e7e97ca94c0d0856c1 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:59:19
+354bd0860c7f38b59e285c935fd2ea553ebddbabb4973342ad25f0dac6ea7bf6 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1140:8
+e638ba11170bd7b73339e53cc9ddb03019f1c15ad027096c24ced4b0301b3541 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:105:11
+02349ec60858043beb697ade5f3b81665fd59cec738fa93f07ab55241d37e048 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:52:19
+270ca1f7ab6a6459ff00618dfd9702a9c783f1991c02279fb3a4b81a1c401794 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:54:19
+bb58788972ebbafeaf836ab82c02f8c3c1738292fc35c0009a80ddba7a27d9e5 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:62:19
+cbdc5a09b4a2749a2662e35c277a38eafec45076347394385fd69ac331e6c3eb /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:22:18
+331da2b4d3d4b78ea8a2f09bdf8abf44d995467c725a49f1fbdc5a1712bb90e1 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:60:19
+7f2ba3cace281fadd3345bf6b66342230a6affc7a97a0da98049d255f6c5692c /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:180:8
+9a3b7d1924363894c859ceb6bcec34fb944f01a5e0c90679d41b8430990b7295 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1867:8
+5b4afbf126ead03e68ef2c3f6333bc7d1f957ae33dafcb01dc477bb982684086 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:34:18
+0275fe530d03d8d208e5e2997e5440ea4a08a8657ca5dc5c25f103fe072ae9d6 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:225:8
+417caf6bb810a4e03a3257e188791c3c0b6471b3d079a7a054d778b312b35cf0 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:39:18
+6080608bcc4cd21683f9caa5401c0ac8b0d78aa6aef7debaec6db584c243f84c /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:173:11
+17ff86645c7432a623c1ae7a8acd8173233e2f181231a6f328602b5b7b3db242 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:28:18
+7ad2779cd54b9009119458217cae5138026cc4ff244e54c28e64db21100f63d9 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:2479:8
+cf6aaec34c2cf70ca5437026f9103b26313324df3e116d0a274404de4e21ce9c /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:100:8
+40e7eeb12a2a7989d50afe47d3fd6bb871f77bcd867d38440a6c67a7f36b8ee5 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:65:19
+ba98b5d709b2f0b9e761a0135fed944d2b9a7e3a8610260c54591da825b1d3ec /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:119:8
+1b17cf685873afe43220528edc1ccd4eb4c93b2b19acc4ae1f4a9b4b6d21ee01 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:58:19
+f52b42d70e88c87d729ffc9bb2dd14ed75aee9caf1eb03b1028e7a49646eb926 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:199:8
+75e0a8082acda4cf1e29caa6aaafb7f9a421e16421a41f2006943d6fab17a162 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:2576:8
+ca003ba1a0fe3907fd1e24c466a24b362b2b89415696c257dd5189f4eb955fda /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:21:18
+7786326ee91c6602a64806075e270464e65880eed53faafb4e6da7c7c92a5a5a /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:210:8
+e3104fbfc6393547bdaae3ded8fd1f0bbb8e915e8dbf148f36a7e12273564ba6 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:43:18
+0c67f389b7bb78a579fb85f8525d9f7c9700afbfcf7bc01e3d93e76e3c7cfbf0 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:176:8
+5d6cd8422b89746d616def821344cc5f60227bf72f6da37ba18f4ded36b4671a /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:64:19
+b7f740050d72a847424b022a9c8217325aba8a154a42831aa3c7a3b0727f3205 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1869:8
+abd1bcf9163e4b9246ea946a965b126052eb0ccc63a3caebcc40d7157c6e135b /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:67:8
+bed0ec5250e3148e1050ebd5a743428947c22adace7cc30012a85de2659ea3dd /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:46:19
+fd8f48e45777f3059e54ae020a375f6bef12bfc9dc7aaa13d5ec61319d75f9cb /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:52:19
+793d16ae85a2e172bfd22aee1e447af8d46edcddad43a1a52913fcc326f39c66 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:177:8
+3965c8e65257ebae926d601fa8ac672d34e4c211d73ba594c571c6bc5960f3de /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:2246:8
+ac7c0960d8c123c9bb947f443a0b7f687e598913f66ac5770a72eaba3a2208d1 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:203:8
+1d49d5f2396340bc882e0db329e78643348515af2550c6f2840de3948b121e48 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:52:19
+535dd6e03adb86cee067c523961c5834bc671e5761726803f264ffd4b031701b /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:32:18
+53fc758ece1ff16581673016dfacc556cc30fcf6b3c35b586f001d76a1f9336c /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1118:8
+27a5d1d7872d61f82556a4e44bda13846dde7dc2d9c54304d7858de9a8b9d6b8 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1769:8
+2676306f5a84f7a80975973bfb76bb6ec244db8c0ff280badc4d7f0d00dfb21d /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:206:8
+4367434b0f61c404f7a2e926426bd23874dd547de689c5d15089967fbab2b3d5 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1888:8
+6c888bb7922b7f9161d8bf9bfd4bab7dbb51b9673b805aaa866fcc088778d67e /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:21:18
+5b729746be7bf2183d9eff138d97078a7c9489def6d8b2e1495c41ce3954997d /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1128:8
+f2e77373c70858c92554a27c51f2a623a93bfe107ed1e73e1fb182ea6298702d /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:174:8
+07e682bc7cf0697b8f3a2b54f6a93467a456252c79ba7e036f164a3d92f6c7d3 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:37:18
+9421abd154d3824233f6fba505d1aa2ca6daa69aef410f52fda353355e87b779 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:52:19
+eccde78f4398906a3fa065733dbd4e8d29fb3576b4b2d1447a5f9fb740da9f6e /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:105:11
+8f573a023a3d9ac0e4849c63ed3e0b0f55e4cf798e7e270bdd16aad6c215033d /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:114:8
+7de6fa2eb4c638a00aa157090d6483fc9e243dc9ceb4b50f7760652a6500e3ec /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:37:18
+c6d913005e48670682f1d1149f0c96a032a780bc26a4759d4bfb1830e9cec141 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:36:18
+b4d8f74cadbbea0191854f84ae9b0cf2d9cf6d040f9c59bca5842fe39b0759d9 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:137:8
+b8dc60332d81448a31a8e27f90f36e6a2630dd155bd31a138e0cc460ecaaa49f /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:40:18
+1c726cd81629c2e5f411539a7f9b4d297e8600e5d71a5d235d287e3001f3ec84 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1872:8
+e6707771273f8edf76c791a2584de3c7d919d4d55e829ddfef0c833aa64ec5c4 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:38:18
+51c02ab1544670b7c0d254a69da73e16e872617360dff0377dfba5657f879b6f /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:28:18
+628cff029a6d79e4c99999c0309f91ab8cb12f0ba549bb3faa850f96304c970e /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1874:8
+c61ceda5420ee6ded63d6ac12451058adbb362b67dd4002fb38107dbeb275e15 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:156:8
+ac3d3c10af04123d52a788d2da69f1c38ca7f037a5564e1c07d49222d26ef0d0 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:146:8
+e40106ca946dfbeb2f2e836fa255353504b4efdd04b2b83b10cf3dea2bb797e4 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:34:18
+2fe2e5b12da0a255f649b96885d4c0940509405cb11dcef21270f8266efb059a /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:43:18
+099fbd5ee1d9dcd60c1cb3d6045c75305253e7fbb022df849d5db7f852d338d9 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:190:8
+f9dc84505129ef30a1a0e25bf7156643eedaf1926492aa0ee77e58562854e205 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:52:19
+d95bcbc6ad7952e7b842fc3cd927c9c3d66cbd0276440b28644dff91acd90217 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:65:19
+53052d660515a47091caf1e9442a983d138cfc59cad2dde44f8e4e9682b60409 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:37:18
+9c183fae7de06f560180386d14d29c609cadf0c98266ce2adbecb50100a1daca /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1124:8
+b0ab2599688026f7a3af06ee7efd18218a948bdc8bf91a9da9f6b66abc513a1b /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:193:8
+61017104841493bcf09a2d25a4bb01589c1cccfdf8c60a2a3bbd83eca41f57e3 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:22:18
+3cbd77926e0fbb4ec5315e1c789de47f9f42aaeb02c55cbf146d48c4b12b5889 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:164:8
+7af0fefea9790e00cc69f0de598e1a349893c58e05fc12439696f05deaa5133f /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:39:18
+d0d129b507ee272d1e38e56f47614437934871055c5053e9f05cee9391574943 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:34:18
+ca40c5f95abb8892e385de0c7e7b3074b5f110606dbd63587b1c6ed8c46ca01a /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:27:18
+eb8c85dac19a5951f694b65269c2b17c80d6d126d6a367958e4a5d736a880ecf /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1142:8
+8ae34232c360bc4e7540ceed3926e4013180c52f2f697e09c6350456a7878f21 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:35:18
+9e50fb4dcba1212ee863c170298cb8b555f39fb3b4bcb649f3d1d8e321accc80 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1863:8
+05937602d8d879f20ccb31ada63f595348c4647bcb356c1d8cee8223fd86d09b /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:32:18
+e3ab8c4ba051b6443bf971b3db311c5de6b36de8ef833954276f751639359451 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:142:8
+cca4780e4e7660055f781b9643f3125234a0f4f08ba76cacf8e5a18fe7fc999f /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1764:8
+d7334e090e8c46079c9e06151087282e2856ae4d1d173d3e54cec0d34a6eb1e1 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:42:18
+3b67f4bf2235fc46fc94b1d10e936100ea3fc4f2dbaa4e4a77593e8385f5004f /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1416:8
+1ed0457fc10bf9d3bd8062d5ed66b8eabb76cab4fe0c50602725fbdac7baa8a0 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:29:18
+e26e78065c6c680ba60dca697e0c4e4c65099463fa4ddb5d4e0c343dd64cb01e /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:65:19
+1a1d6cc2fa64ac3a3060507c0c3101682fd2ab1037cec485fffb4d532195e8c8 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:43:18
+bbbb502eb5b2edf5b141d685a73bff6f18f59845ef0c9ecbbaf324578bff4383 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:29:18
+ea4e5db8ade01837c67ddb2b19a40f15a6f82a44acb71a77938f396e6da067e8 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:207:8
+47860d52c18a441b229449cd89d5464256137dc32deb5551effbac0482c883f3 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1136:8
+6f0147cd4df2595e581cf987195640f0c1eb37c828e80193a27b3147b480062a /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:34:18
+43c9a203c89af6fb3d8ec0a2c5a52048740785885cfdaad9fcd04ed8c63b8f6a /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:153:8
+82859227f1e6bd28c99179767f5ad0703cdde521efe143d649d3d1a38a1d0091 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:220:11
+79a9f5c3f6c21b7c81c588815467e35ac4f1d256d16b447860ece2a9e9114daf /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:182:8
+cbca5fb4157d246bfef21a0df652ffea32305f591a605c9dd26898012fb50ad5 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:40:18
+ad9696a4930c9b2194b1b41cbc3354c1dc2be51066620f80f920feea9f5e738c /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:45:18
+38d1359d5ae95e5583023d0fbda2954208266c92048b2ec112037c61b4120531 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:42:18
+b26666811076f349237fbb256b73ab04632fb7aa76cddc4195fa041b0505751c /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:29:18
+991a3290bc7b6dca75d676a72a848ec6b2bd2827fb0e9626252aa1507394ca1b /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1137:8
+99ba64afc26a739953df142ccd4b486bba68107fce8c9aa356d40afa7a988712 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1147:8
+0ffd9917a38ece7e514714a978be18f8b77b1a9e2afa09d811c474071849314b /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:152:8
+0508592878b546cbc6eeda6ec7b322584eea5c6d6eea3f72be8418fe4f7149b2 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1129:8
+c9eccff94ecf6e810c600d4536bf1701485c13c3456c6b98c0cdab0fe7c5af14 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1141:8
+ebcfbb32e0784ca2c125b6dedc11f1bacfd3becd7e8edb15b4e9cf8e7f8b9688 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:56:19
+83c225eb2d6503c35937077d57c868b0e08f8e2502fddc6a4cf859ac8fa85820 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:32:18
+b73b5c8e0ae45020f2b9b8170d366691fee01a63763b79653a2075703ec4e835 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1770:8
+17ebc68421572b8ebe609c068fb49cbb6cbbe3246e2142257ad8befdda38f415 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1119:8
+7d152f2a0cfa3772b1cd9926596effe362e444366300440676cf12774b2b96fb /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:22:18
+cf2cb8f038b4bdc4edb1334a3b8ced9cd296a7af43f0a1916e082a4e1aefa08b /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1433:8
+4b1681805d75cd2dbf1aed77ce49ba75c9647c3d547b3eb13a61a91d50792089 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:61:19
+5adddaf7ed1e8f9ec579ee6c105d2cb886604b15e52954254b60b47eb5a1d74d /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:154:8
+c269c1f06483a51fb7e910bcb509246a38446c817356fc1764ec15e3684a6096 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:35:18
+fd8facae0061fe5bc5c406f7ad2ed5d8d21960bf1118c9b240451253064dadb5 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1430:8
+f60a26bedf1c72382834763c6b0b8168460cd8574780c8b99e0b95dcab9e33f5 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:103:8
+e1effeabf96bb3a3beffd5b679ad5df95c4f8bbf42872b0793331e52a8470fb3 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1427:8
+5a6cf981f0ec2494854cd3e517b0cf645a1c9762c92a14849adfca9a6a553117 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1868:8
+f36838c8af6b59ee1e72d15e7dae2193c9d97f141f49c598829beb7e428388b4 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:28:18
+b38d7fb3732f2caff12a269f821913bd83b05cd7f60ee8de4a864dcb7eb55c6c /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:54:19
+e60f68bf4b818d9262201d06610089f382b36ce17e4ef9dc7a40efd6164c1098 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:196:8
+7a2851f9d4ea4bd3f35070ee029fc3bdca36e361f7ee54addeff9d10ddeb7c75 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1132:8
+692477386122cf7760e76585b8a4589286251ec3b777908f5c043e33120d8d03 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:38:18
+79cfcaf2f5b0e39b2031a3c017df6779bda194de58554ce1a1d01bc55780b5b9 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:56:19
+147fc15c2ec6c36de1a9c0cad6212b8acd8b224f21c0aeabd36726e9c8a06119 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1414:8
+4ad4f379ff9db687ff9dfd1b15052edbcd3342a2ed262ecdd38c769e177a592c /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:2575:8
+879a7a8c000c43f07fb841c19eb37f06b6e082d207917259a9f223dfbb8595c6 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:134:8
+49aba6c8a3076810fa69ae1e6096506768e7a9848d5a929e6e1db7b3260b1a47 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:39:18
+e754aefe17f2c209013b8986b4e1d267214e918927eac5a73bd708b64ed0eb28 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:170:8
+cf58dfcb570afa4ea8c71ed8ffc38619095f4d72e42309721488087712d5c12c /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:59:19
+4de6e05b11cdbed7ef5cb4c952127924661af4744c1e495370e1c8a962ba7be3 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1429:8
+13e37bfb7acc77561f0c42eac7ecadb877f48df7f4154b1d00b1f94afd173a59 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:198:8
+0db839c4849a1fceb3b4cbb85f8edd6f2827f02825009b78657b467bf67fc2e3 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:68:8
+e8d4ca75a690151f99f8904b068db555782f5599b11230a9d0b97a71afb6fc98 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1122:8
+b12d633378db5031b84f945597ee54b976c7b7dd1fc2ffb854a8963421b5460b /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:60:19
+8c0886e16f0cd011eef32310f810b23adb4d40ad71d18503f128639872d93ba2 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:45:18
+82ac30b094be9b12206773d87b60274e929a41ca595f4674be1d37eeff873d7c /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1127:8
+3beb79de1d473b08e291b234ba8a42deb574d8a77b2c642a86fa993fb553f538 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:128:8
+0ae969582b6c18cc03ed4e3251961422a91f40fb99500ad3d14fd6d0699653a9 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:46:19
+1dd31f1f1044990cbd8fb7cf3c5770f594f41e7fb90eab1fa017ea3133b048e7 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:31:18
+262167183c3ec2e214d12bac6e639d7ac1a9f973582e16eca6c1af1da7ecc0a5 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1889:8
+71744528cdad83bc729990d3af3b544d27b09630b2615ca707dd2fc6ec93e7c2 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1135:8
+5f439ec6f68a3312c6125800fa968d883cd5b536eb5773fdfd31f7c00a522dad /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:42:18
+ba272ed249b1175d86a1969da75f6337bdf050760a15fdf9972dcdf06499d81d /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:144:8
+e7646106f865f4287c5c60dc9337a8f6acfdba95cdb4ba26731069412bb85d9f /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:194:8
+b8e242ec7a2d102e240cd139701f90477a1931328415e93d36dcfc3d1f0dd449 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:140:8
+78a3191cbbdec57b0f411f41291076c8124bb0d9b6b57905674b2c6858d78689 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1126:8
+81fc888c67b9ee8973265053ba1fa87f3be172c6f79ffdda9bb04cf076e9e3e6 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:157:8
+bbc18fe32b804c33da5d58f09479bb122f4ee897b0fdd47b211da5547cece6fc /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:166:8
+a4a76413cdef28b6734e28ef965e4d02021a267edb06e4d8462e3f58e7b6d08a /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:150:8
+7f6991a8a7587d6e986ca342e748150a8228390de3ed4b79ef51b8b4e590a09d /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:23:18
+f38a8cf1b761b7d4e4ba028ea0d5476703883e390e6737fe94699eb0e6a89f64 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:171:8
+b909ca6e2fe64121003261108caee9fabb87fade09fd0a9496dab7a52bd2d9b8 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:35:18
+d29b41087d186f4be242654230d402fb0827a36b1ae385797cd6bf0bd1569e70 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:27:18
+684b0444a1f711d49ff1502423a3346fb26958697423db488b05d25081fc0480 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1143:8
+0e7fbcff1740f3c10afb849b6312ed53543c1da6ec89ad9354cca847f38f42dc /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:145:8
+57c79ee3ba33c34518f0079e1cd045882a38625775eae363a07f05df685ec751 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:155:8
+d7245713da157cf997438091f92bb78eb51a6cefa568bb0d30560ce08d647f26 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1138:8
+e0148e7ea1cfe8e27a467ba9ea06b3b688f58a756e3e78ad78758a36876c88f3 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:149:8
+aac8387505c6e7e072dc7d4d12ef4796ec612e6dc186784a1dd6f955a3ca1eb2 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:51:19
+55bb5c83c9563c712537b95401c0a5c88255fd7cdbd18b2d4358c54aee80660e /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1146:8
+6e8e28df20aaccc3fc3f15d6658001b37f8bce94611232c93727269c5f7995f1 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:22:18
+e9027ab9d8b123320d516646964dc2c31d42cfce1f7baa68b0ff047e5eb97157 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:29:18
+84711038735a4ffa496cea3143831696b5f067815db7b323497b6f744f7128a4 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:51:19
+ff003f73cb0f410cfcff5812376872f081817cbdf4b64981714d77041c0f4dec /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:139:11
+68f003b3eaae6e4f71eda48be4b44ba5fbaa66e9f2a1965e328d098c7a9fd85a /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:46:19
+255d8db9bc26bbd4d3d85d1dafba465e11d0c1364ec7e7556f8b6707fc80354b /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:54:19
+a1374b255822aa440432539a0f1987572d59d4a9644083719ea1df00ad677116 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:187:8
+fb09b6acc4366cb77203e07c4efe8a9cf304e1bac9fb0664deea05d3eb9a80c6 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1426:8
+bb6ff6cec51611da224055572719399c7384141093994fe647e256d410a53bc6 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:61:19
+06328acb054ee794341e0c0efa585ad528efbad80147461eabca8b7cc7e59d7e /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:42:18
+374c9b8e308db498ab06e3421fe47ab0d87f52cc255a3e334eb04871f502819b /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:63:19
+2e830dcb3b287dc4cdabc230b4fbe06a358a874e0ee230d726fb816bbca1d64a /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:46:19
+97a1f888d0dbd7411c6634272c3f132eeef5a79268669475a3c54cde10390f80 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:200:8
+651bff3fa53d464ac7dd7aa77e1ef6071e14c959eb6df97baa325e2ad300daaa /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:2305:8
+8a2ca546040ab6f9f8699bfacf02bc86cc16d07de15ff5017c2bfb9241df5c45 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:64:19
+c81de6d1875290481365de852ed2b0eb2d633a9a5c2ece0c7c488d80e97bb0be /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:223:8
+b30d8a0ba02bfab5624afcbdab990aeb9c3117836278f690dbd373b8357e9e79 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:37:18
+e845567f91ed930bcc1e38ab614ed45db4addf0fa2edb7ab5eb5313a5e05fd10 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:63:19
+a70b59103cf863c9173459134b302066a1ae4f921a7b6ac31502015ce58155ac /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:124:8
+c38bca0818448c0df2dc3559baf588fcaffdab3da06404f3c0ae388eba0c60a7 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:129:8
+bccaba7335e4cd77501a0667f2f7b3eb4a2105d5f60d804915dd4b1b08902c0c /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:2302:8
+a340f7d58571bb7f6fd010802c8789bb396d8745654f457bcaf712e757bb2106 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:69:8
+365df37345a5a44ac061f8741369c7bd74a49f0f6e7b716be0374806dd1add3d /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1763:8
+700b9e4cad81d1769ab273173202e1d6c2a84cf52a0fac8fa99e43ef42b3c3f2 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:52:19
+31fe72efcfddcd8588a11d9d10c1b1a9f96ae3da46b647d4cb9d1e8b1bd1654f /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1150:8
+90166a16db148cb77e08f90ad436da4bb9f1691f30d838e28bada8292a0f62e6 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:21:18
+322faf9393415cb11d49c6bce8a9b11ca8b26570ddca198951d6b1e0765c16aa /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:151:8
+658a2ffb34b5bee3a11aa4da83688e60d75ffec87f74a499422d0b8f2bdbdf44 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:70:8
+5e15bddbd634b3509394493fe1d45e603fa907c24bbe4f1946c900a8caef0e3f /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:35:18
+9b01fb0016c8de9b7dcf6deb6d581f4983763a80755599bf55c40d2facdd2569 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:36:18
+be1049571e46f3cf870d47c8cc370e8d80c7e4694fa0655d1e6b57e00f49b71c /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:27:18
+05d4822d8fb21a4a581d396b4d4dc1e4da511ac449bef0c441d3307a414b1b56 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:147:8
+73513655c09a595907ab9d26d67e27f01d14a3435743b77000c02d10f35c05bf /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1131:8
+8879eef14f710f41e1697cfd0059b8d74d981dcfb3537b1b384d75fdd36efa00 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:36:18
+769c61809d3a9f29f09a8d1ac5971344f2ce77cda3ecf23f2568b9d881a57de1 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:23:18
+8fbd1c8efb9988236eddc95fc2af4a3e74f6ec94d696ee47209543fd0826dd34 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1880:8
+91208ae2b88b2fdf0efeea6c61720464f3518da78bb5652bfee70dbcf4c72634 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:189:8
+8092efa42224ebe54768bdadebcdb07e8e6ce49770b1a246e82ff9957150db83 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:139:11
+233fa1fda2672234b7b7e39fb5756e50230ebf39d60b706b84ade1c82925f122 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:31:18
+022c562a21d72cedfb795607d2249b8ad14b66399b720b3b2f4a05a1da08df96 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1148:8
+656fcf2e16473ab4199c04d0e278c595fa6a738a5a957c6ae876998755112dd2 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:62:19
+adfacb58b0678a49f66186954229939a953c9849d5b08edc8f887c0d7514b2c6 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:1421:5
+17e56821c4a9d6452f59f87f22098dec4cd0ebc9752e3109184ee5f6ea5780b1 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:58:19
+c7ffdc9908c28a954521816d680f4e5ec44a679c7231a8dd09d4700f50b6d8c3 /nix/store/4vaa1x34iq9zpylc50g8lfy46axx3k7l-k-6.0.168-1e35f58bc4610cc2276cf00f33b44831020f27bb-maven/include/kframework/builtin/domains.md:2574:8
+59eaa96be99d6ed478209e76ade635f9d7a998659aa901ad6c574c523bc998dc /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:38:18
+6234f56183f8290b521756431fcb3f8aa1607dbe5c489073a5a034eebd191bd6 /Users/mohit/Documents/UIUC/CS422/hw4/problem 3/simple-typed-static.k:54:19
